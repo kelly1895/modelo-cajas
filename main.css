@@ -1,21 +1,20 @@
-/** 
-Escribir el CSS necesario aqui
-*/
+
 div{
-    margin top: 25px;
-    margin-bottom: 50px;
-    padding top:10px;
-    padding-left: 80px;
-    padding-right: 20px;
-    padding-bottom: 30px;
-    width:1000px;
-    height:50px;
-    border: 10px solid #990099;
-    background:#fdddca;
+    padding-top:30px;
+    padding-left: 60px;
+    padding-right:20px;
+    padding-bottom:60px;
+    border: 1px solid #990099;
+    background-color:#fdddca;
+    border-width:15px 5px;
+    
 }
 
 p{
     text-align: center;
-    background-color:floralwhite;
+    background-color:white;
     border: 1px dashed black;
+    padding: 10px;
+    font-size: 12px;
+
 }
